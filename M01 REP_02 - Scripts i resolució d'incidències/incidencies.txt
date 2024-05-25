@@ -1,0 +1,12 @@
+1;francisco@gmail.com;Servei caigut;S'ha caigut;2024-05-15 16:21;2024-05-15 16:21;oberta;;
+2;laura@example.com;Problema de connexió;No puc connectar-me a la xarxa;2024-05-15 10:45;2024-05-15 11:00;proces;;
+3;pablo@example.com;Error de servidor;Servei no disponible;2024-05-14 09:30;2024-05-14 09:50;tancada;;
+4;anna@example.com;Actualització fallida;Error en actualitzar el software;2024-05-13 14:15;2024-05-13 14:45;oberta;;
+5;marc@example.com;Pantalla blava;El sistema s'ha bloquejat;2024-05-12 17:10;2024-05-12 17:30;proces;;
+6;julia@example.com;Problema d'autenticació;No puc iniciar sessió;2024-05-11 08:55;2024-05-11 09:15;tancada;;
+7;david@example.com;Rendiment lent;El sistema està molt lent;2024-05-10 13:40;2024-05-10 14:05;oberta;;
+8;marti@example.com;Problema de seguretat;Alerta de seguretat detectada;2024-05-09 16:30;2024-05-09 17:00;proces;;
+9;maria@example.com;Correu no rebut;No he rebut correu important;2024-05-08 12:20;2024-05-08 12:40;tancada;;
+10;carlos@example.com;Error de base de dades;La base de dades no respon;2024-05-07 11:50;2024-05-07 12:15;oberta;;
+11;sara@example.com;Problema de maquinari;El teclat no funciona;2024-05-06 15:00;2024-05-06 15:25;proces;;
+12;jordi@example.com;Tall de corrent;L'ordinador s'ha apagat;2024-05-05 18:10;2024-05-05 18:30;tancada;;
